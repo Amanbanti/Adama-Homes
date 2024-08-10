@@ -1,2 +1,1 @@
-# Adama-Homes
-Internship project for Adama science and technology Office  
+# React Real Estate UI Design
