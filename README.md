@@ -1,1 +1,1 @@
-# React Real Estate UI Design
+Internship project for Adama Science and Technology Office.
