@@ -3,7 +3,7 @@ import Filter from "../../components/Filter/Filter";
 import Card from "../../components/card/Card";
 import Map from "../../components/map/Map";
 // import { Await, useLoaderData } from "react-router-dom";
-import { Suspense } from "react"; 
+// import { Suspense } from "react"; 
 import { listData } from "../../lib/dummydata";
 
 function ListPage() {
@@ -40,6 +40,7 @@ function ListPage() {
             {(postResponse) => <Map items={postResponse.data} />}
           </Await>
         </Suspense> */}
+        <Map items={data}/>
       </div>
     </div>
   );
