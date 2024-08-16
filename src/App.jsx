@@ -31,10 +31,10 @@ function App() {
         },
 
         {
-                path: "/profile",
-                element: <ProfilePage/>,
+          path: "/profile",
+          element: <ProfilePage/>,
               
-              },
+        },
 
         // {
         //   path: "/login",
